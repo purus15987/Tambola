@@ -1,7 +1,3 @@
-For questions, collaborations, or feedback:
-
-(a) Mailapalli Purushotham, Email: purus15987@gmail.com
-
 The provided code implements a **Tambola** (also known as Housie or Bingo) game in Python. It consists of two main classes: `Tambola` for generating tickets and managing players, and `Play_Tambola` for simulating the gameplay.
 
 ---
